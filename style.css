@@ -1,0 +1,16 @@
+body {
+    color: #fff;
+    background-color: #4F8BF9;
+}
+
+.stTextInput>div>div>input {
+    color: #4F8BF9;
+}
+
+.highlight {
+    color: #006666;
+}
+
+.question {
+    color: #000044
+}
